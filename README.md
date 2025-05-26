@@ -89,3 +89,31 @@ INNER JOIN orders ON users.id = orders.user_id;
 
 ✍️ _Note:_ Some explanations and formatting support were taken with help from [ChatGPT](https://openai.com/chatgpt) to ensure clarity and completeness.
 This is humble, transparent, and professional.
+
+---
+
+## 📬 Get In Touch
+
+Have thoughts about PostgreSQL? I'm all ears!
+
+**Contact Me:**
+
+- 📧 Email: [zubayerhossain1009@gmail.com]
+- 🐱 GitHub: [@uday2027](https://github.com/uday2027)
+
+---
+
+## 🛠️ Built With
+
+- A generous pour of PostgreSQL power 🐘
+- Fluent strokes of Markdown ✍️
+- A steady stream of caffeine ☕
+- Multiple "what is this bug even?" moments 😵
+- Sweet victory cries of "SELECT \* FROM success;" 🎉
+
+---
+
+🧠 _Some explanation structure and wording were guided by [ChatGPT](https://openai.com/chatgpt) to ensure clarity and polish._
+
+❤️ _Made with curiosity, and a sprinkle of stack overflow sadness_  
+© 2025 |
